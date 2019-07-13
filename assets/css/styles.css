@@ -161,3 +161,12 @@ img.article-image {
 .footer .footer-content {
   margin: auto; 
 }
+
+.social-container {
+  margin-top: 25px;
+  font-size: 16px;
+}
+
+.social-container .social-link {
+  margin-right: 8px;
+}
