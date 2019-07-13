@@ -170,3 +170,11 @@ img.article-image {
 .social-container .social-link {
   margin-right: 8px;
 }
+
+.mdl-dialog {
+  width: 480px;
+}
+
+pre {
+  overflow-x: auto;
+}
