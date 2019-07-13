@@ -157,3 +157,7 @@ img.article-image {
   max-width: 550px;
   margin: auto;
 }
+
+.footer .footer-content {
+  margin: auto; 
+}
