@@ -1,3 +1,7 @@
+html {
+  background-color: #eeeeee99;
+}
+
 .portfolio-header {
   position: relative;
   background-image: url('../images/bg.jpg');
@@ -54,7 +58,7 @@
 
 
 .portfolio-navigation-row {
-  background-color: rgba(0, 0, 0, 0.08);
+  background-color: rgba(0, 0, 0, 0.1);
   text-transform: uppercase;
   height: 45px;
 }
