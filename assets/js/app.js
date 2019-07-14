@@ -16,9 +16,9 @@ var bibtexs = document.querySelectorAll('.bibtex');
 for (var i = 0; i < bibtexs.length; ++i) {
     bibtex = bibtexs[i];
     bibtex.addEventListener('click', function() {
-        var html = document.querySelector('#' + this.getAttribute('bibtex-id')).innerHTML
+        var html = document.querySelector('#' + this.getAttribute('bibtex-id')).innerHTML;
         var dialog_content = document.querySelector('#dialog-content');
-        dialog_content.innerHTML = html;
+        dialog_content.innerHTML = html.trim();
         selectElementContents(dialog_content);
         MicroModal.show('bibtext-dialog');
     });
