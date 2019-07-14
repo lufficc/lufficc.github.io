@@ -12,10 +12,6 @@ function selectElementContents(el) {
     }
 }
 
-var dialog = document.querySelector('dialog');
-if (!dialog.showModal) {
-  dialogPolyfill.registerDialog(dialog);
-}
 var bibtexs = document.querySelectorAll('.bibtex');
 for (var i = 0; i < bibtexs.length; ++i) {
     bibtex = bibtexs[i];
@@ -24,11 +20,7 @@ for (var i = 0; i < bibtexs.length; ++i) {
         var dialog_content = document.querySelector('#dialog-content');
         dialog_content.innerHTML = html;
         selectElementContents(dialog_content);
-        dialog.showModal();
+        MicroModal.show('bibtext-dialog');
     });
 
 }
-
-dialog.querySelector('.close').addEventListener('click', function() {
-  dialog.close();
-});
