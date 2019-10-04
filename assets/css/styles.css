@@ -1,5 +1,8 @@
 html {
   background-color: #eeeeee99;
+}
+
+html, body {
   font-family: 'Source Sans Pro', serif;
 }
 
