@@ -96,7 +96,6 @@ html, body {
   display: block;
   position: absolute;
   bottom: 0;
-  left: 0;
   background-color: rgb(255,64,129);
   left: 15%;
 }
@@ -166,7 +165,7 @@ img.article-image {
 }
 
 .footer .footer-content {
-  margin: auto; 
+  margin: auto;
 }
 
 .social-container {
@@ -184,4 +183,11 @@ img.article-image {
 
 pre {
   overflow-x: auto;
+}
+.me{
+  color: rgb(255,110,64);
+}
+.paper-title{
+  font-weight: 400;
+  font-size: 20px;
 }
