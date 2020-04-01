@@ -184,10 +184,17 @@ img.article-image {
 pre {
   overflow-x: auto;
 }
-.me{
-  color: rgb(255,110,64);
+
+.pm-b-0 {
+  padding-bottom: 0;
+  margin-bottom: 0;
 }
-.paper-title{
+
+.me {
+  color: rgb(255, 110, 64);
+}
+
+.paper-title {
   font-weight: 400;
   font-size: 20px;
 }
