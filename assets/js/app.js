@@ -39,10 +39,10 @@ let bibtexs = document.querySelectorAll('.bibtex');
 for (let i = 0; i < bibtexs.length; ++i) {
     bibtex = bibtexs[i];
     bibtex.addEventListener('click', function () {
-        let dialog_content = document.querySelector('#dialog-content');
-        dialog_content.innerHTML = BIBTEXS[this.getAttribute('bibtex-id')];
+        let dialog_content = document.querySelector('#modal .content');
+        dialog_content.innerHTML = "<pre>" + BIBTEXS[this.getAttribute('bibtex-id')] + "</pre>";
         selectElementContents(dialog_content);
-        MicroModal.show('bibtext-dialog');
+        ts('#modal').modal("show");
     });
 
 }
