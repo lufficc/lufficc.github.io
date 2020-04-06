@@ -1,14 +1,35 @@
+
+html {
+    font-size: 14px; /*origin size*/
+}
+
+@media (max-width: 768px) {
+    html {
+        font-size: 12px;
+    }
+}
+
 .mt {
     margin-top: 1rem
 }
 
-.bg {
+.abc {
+    background-color: black !important;
+}
+
+.abc > .header {
+    text-shadow: 1px 1px 4px rgba(0, 0, 0, .5);
+}
+
+.xyz {
     position: absolute;
     top: 0;
     right: 0;
     bottom: 0;
     left: 0;
-    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    background: url("../images/bg.jpg") no-repeat center center;
+    background-size: cover;
+    opacity: 0.8;
 }
 
 .counter {
