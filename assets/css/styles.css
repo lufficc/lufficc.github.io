@@ -8,5 +8,16 @@
     right: 0;
     bottom: 0;
     left: 0;
-  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+
+.counter {
+    text-transform: uppercase;
+}
+
+.counter img {
+    display: inline-block;
+    height: 0.9rem;
+    width: auto;
+    margin-right: .1rem;
 }
