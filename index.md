@@ -4,8 +4,10 @@
 
 I received the B.Eng. degree from University of Electronic Science and Technology of China in 2018, and then became a Master student at University of Chinese Academy of Sciences. My research interests include computer vision and deep learning, particularly focusing on object detection and Automatic checkout (ACO).
 
+[GitHub](https://github.com/lufficc) &middot; [Google Scholar](https://scholar.google.com/citations?user=z9QltjgAAAAJ) &middot; [Blog](https://blog.lufficc.com/)
 
-## Education
+
+## Educations
 
 - 2014 - 2018  
   B.Eng. in University of Electronic Science and Technology of China
