@@ -7,31 +7,28 @@ I received the B.Eng. degree from University of Electronic Science and Technolog
 
 ## Education
 
-### 2014 - 2018
+- 2014 - 2018  
+  B.Eng. in University of Electronic Science and Technology of China
 
-B.Eng. in University of Electronic Science and Technology of China
-
-### 2018 - Present
-
-M. student in University of Chinese Academy of Sciences
+- 2018 - Present  
+  M. student in University of Chinese Academy of Sciences
 
 
 
 ## Experience
 
-### 2017 - 2018
-
-Intern at SAP Chengdu, China
+- 2017 - 2018  
+  Intern at SAP Chengdu, China
 
 
 
 ## Publications
 
-- [**Spatial Attention Pyramid Network for Unsupervised Domain Adaptation**](https://arxiv.org/abs/2003.12979)
-  **Congcong Li**, Dawei Du, Libo Zhang, Longyin Wen, Tiejian Luo, Yanjun Wu, Pengfei Zhu
+- [**Spatial Attention Pyramid Network for Unsupervised Domain Adaptation**](https://arxiv.org/abs/2003.12979)  
+  **Congcong Li**, Dawei Du, Libo Zhang, Longyin Wen, Tiejian Luo, Yanjun Wu, Pengfei Zhu  
   *European Conference on Computer Vision (ECCV), 2020*
-- [**Data Priming Network for Automatic Check-Out**](https://arxiv.org/abs/1904.04978)
-  **Congcong Li**, Dawei Du, Libo Zhang, Tiejian Luo, Yanjun Wu, Qi Tian, Longyin Wen, Siwei Lyu
+- [**Data Priming Network for Automatic Check-Out**](https://arxiv.org/abs/1904.04978)  
+  **Congcong Li**, Dawei Du, Libo Zhang, Tiejian Luo, Yanjun Wu, Qi Tian, Longyin Wen, Siwei Lyu  
   *ACM International Conference on Multimedia (ACM), 2019*
 
 
