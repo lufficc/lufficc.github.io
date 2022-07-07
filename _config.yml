@@ -1,0 +1,8 @@
+title: Congcong Li's Homepage
+description: > # this means to ignore newlines until "show_excerpts:"
+  Stay Hungry. Stay Foolish.
+
+remote_theme: jekyll/minima
+plugins:
+ - jekyll-feed
+ - jekyll-seo-tag
