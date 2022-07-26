@@ -1,6 +1,6 @@
 > Stay Hungry. Stay Foolish.
 
-I received the B.Eng. degree from University of Electronic Science and Technology of China in 2018, and then became a Ph.D at University of Chinese Academy of Sciences. My research interests include computer vision and deep learning, particularly focusing on Object Detection, Domain Adaptation and Video Understanding.
+I received the B.Eng. degree from University of Electronic Science and Technology of China in 2018, and then became a Ph.D at University of Chinese Academy of Sciences. My research interests encompass computer vision and deep learning, particularly focusing on **Object Detection**, **Visual Question Answering**, **Unsupervised Domain Adaptation** and **Compressed Video Understanding** (H.264, H.265). I have a lot of project experiences and enjoy coding and solving problems.
 
 [GitHub](https://github.com/lufficc) &middot; [Google Scholar](https://scholar.google.com/citations?user=z9QltjgAAAAJ) &middot; [Blog](https://blog.lufficc.com/)
 
