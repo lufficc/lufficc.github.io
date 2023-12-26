@@ -7,14 +7,16 @@ I hold a B.Eng. degree from the University of Electronic Science and Technology 
 ## Educations
 - 2014 - 2018  
   B.Eng. at University of Electronic Science and Technology of China
-- 2018 - Present  
+- 2018 - 2023  
   Ph.D at University of Chinese Academy of Sciences
 
 ## Experience
 - 2017 - 2018  
   Intern at SAP Chengdu, China
-- 2021 - Now  
+- 2021 - 2023  
   Intern at ByteDance, Beijing
+- 2023 - Now  
+  AI Researcher at Changhong, Chengdu
 
 ## Publications
 - [**Structured Context Transformer for Generic Event Boundary Detection**](https://arxiv.org/abs/2206.02985)  
