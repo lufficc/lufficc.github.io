@@ -2,7 +2,7 @@
 
 I hold a B.Eng. degree from the University of Electronic Science and Technology of China (2018) and I am currently pursuing my Ph.D. at the University of Chinese Academy of Sciences. My research interests revolve around computer vision and deep learning, with a particular focus on Object Detection, Visual Question Answering, Unsupervised Domain Adaptation, and Compressed Video Understanding (H.264, H.265). Over the years, I have gained a wealth of project experience and have honed my skills in coding and problem-solving.
 
-[GitHub](https://github.com/lufficc) &middot; [Google Scholar](https://scholar.google.com/citations?user=z9QltjgAAAAJ) &middot; [Blog](https://blog.lufficc.com/)
+[GitHub](https://github.com/lufficc) &middot; [Google Scholar](https://scholar.google.com/citations?user=z9QltjgAAAAJ) &middot; [Blog](https://blog.lufficc.com/) &middot; [Travel](https://travel.lufficc.com/)
 
 ## Educations
 - 2014 - 2018  
